@@ -23,10 +23,18 @@ Email Me 👉 ✉️ **abh792002@gmail.com** For Collaboration/Project or Anythi
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PythonboyAB&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=PythonboyAB&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PythonboyAB&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PythonboyAB&theme=shadow_blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonboyAB&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" height="160"/>
+</p>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
